@@ -89,7 +89,7 @@ You can pick just the one(s) that you need, specifying them as follows:
 You might also be interested in the following configurations:
 
 - [@mgtitimoli/eslint-config](https://github.com/mgtitimoli/eslint-config): Native rules
-- [@mgtitimoli/eslint-config-babel](https://github.com/mgtitimoli/eslint-config-babel):
+- [@mgtitimoli/eslint-config-babel](https://github.com/mgtitimoli/eslint-config-babel): Enables the integration with [Babel](https://babeljs.io)
 
 ## License
 
