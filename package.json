@@ -1,0 +1,27 @@
+{
+  "name": "@mgtitimoli/eslint-config-react",
+  "version": "0.1.0",
+  "description": "An ESLint Shareable Config to be used on projects that use React",
+  "license": "Unlicense",
+  "author": {
+    "name": "Mauro Titimoli",
+    "email": "mgtitimoli@gmail.com",
+    "url"  : "https://github.com/mgtitimoli"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mgtitimoli/eslint-config-react"
+  },
+  "bugs": {
+    "url": "http://github.com/mgtitimoli/eslint-config-react/issues"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint"             : "^2.8.0",
+    "eslint-plugin-react": "^5.0.0"
+  }
+}
