@@ -260,9 +260,9 @@ class MyComponent extends Component {
         "order": [
             "static-methods",
             "lifecycle",
-            "handlers"
             "everything-else",
-            "rendering",
+            "handlers",
+            "rendering"
         ],
         "groups": {
             "handlers": [
