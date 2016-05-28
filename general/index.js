@@ -10,8 +10,8 @@ module.exports = {
             "order": [
                 "static-methods",
                 "lifecycle",
-                "handlers",
                 "everything-else",
+                "handlers",
                 "rendering"
             ],
             "groups": {

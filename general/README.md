@@ -248,8 +248,8 @@ class MyComponent extends Component {
     - componentWillUpdate
     - componentDidUpdate
     - componentWillUnmount 
-3. Handlers (start with *_handler*)
-4. General purpose
+3. General purpose
+4. Handlers (start with *_handler*)
 5. Rendering (start with *_render*)
 
 #### configuration
