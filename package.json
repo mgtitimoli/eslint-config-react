@@ -1,6 +1,6 @@
 {
   "name": "@mgtitimoli/eslint-config-react",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "An ESLint Shareable Config to be used on projects that use React",
   "license": "Unlicense",
   "author": {
